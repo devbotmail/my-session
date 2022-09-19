@@ -20,5 +20,6 @@ KETIK:
 
 
 Tutorial:
-- KLIK BUTTON/TOMBOL INI [![Youtube Tutorial](https://youtube.com)](https://m.youtube.com/results?sp=mAEA&search_query=cara+ambil+session+di+replit)
+- KLIK BUTTON/TOMBOL INI [![Youtube Tutorial](https://telegra.ph/Youtube-09-19-5)](https://m.youtube.com/results?sp=mAEA&search_query=cara+ambil+session+di+replit)
 - ATAU KLIK LINK INI UNTUK MELIHAT TUTORIAL NYA: https://m.youtube.com/results?sp=mAEA&search_query=cara+ambil+session+di+replit
+- DAN TUTOR NYA VIDEO YANG CHANNEL NYA BERNAMA ZIFABOTZ_OFC
